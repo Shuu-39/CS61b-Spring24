@@ -1,3 +1,5 @@
+package others;
+
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello CS61B! Java 21 配置成功！");
